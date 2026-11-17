@@ -1,0 +1,19 @@
+.capa {  
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./mar.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+
+}
+h1,h2{color: rgb(54, 42, 165);
+text-align: center;
+
+}
+.botão{color: black;
+
+
+}
